@@ -1,4 +1,4 @@
 City,Temperature_C,Humidity_%,Weather_Condition,Wind_Speed_mps,Date_Time
-Nairobi,17.28,74,broken clouds,2.95,2026-07-15 18:51:14
-Mombasa,23.84,83,few clouds,5.8,2026-07-15 19:02:11
-Kisumu,20.93,75,broken clouds,1.53,2026-07-15 19:02:15
+Nairobi,25.72,38,overcast clouds,2.7,2026-07-16 09:54:33
+Mombasa,27.13,65,broken clouds,8.15,2026-07-16 09:59:08
+Kisumu,25.98,52,overcast clouds,2.1,2026-07-16 09:59:10
